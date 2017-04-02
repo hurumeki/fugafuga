@@ -19,11 +19,7 @@ You can generate documents as follows:
 
 You can install Re:VIEW with:
 
-//texequation{
-
-\newpage
-
-//}
+//raw[|latex|\clearpage]
 
  1. RubyGems
  2. Git
