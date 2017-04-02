@@ -23,71 +23,39 @@ You can install Re:VIEW with:
 
 1
 
-//raw[|latex|\\newpage]
+//raw[|latex|\\\newpage]
 
 a
 
-@<raw>{|latex|
-
-\\newpage
-
-}
+@<raw>{|latex| \\newpage }
 
 b
 
-@<raw>{|latex|
-
-\newpage
-
-}
+@<raw>{|latex| \newpage }
 
 c
 
-@<raw>{|latex|
-
-\\clearpage
-
-}
+@<raw>{|latex| \\clearpage }
 
 d
 
-@<raw>{|latex|
-
-\clearpage
-
-}
+@<raw>{|latex| \clearpage }
 
 a
 
-@<embed>{|latex|
-
-\\newpage
-
-}
+@<embed>{|latex| \\newpage }
 
 b
 
-@<embed>{|latex|
-
-\newpage
-
-}
+@<embed>{|latex| \newpage }
 
 c
 
-@<embed>{|latex|
-
-\\clearpage
-
-}
+@<embed>{|latex| \\clearpage }
 
 d
 
-@<embed>{|latex|
-
-\clearpage
-
-}
+@<embed>{|latex| \clearpage }
 
  1. RubyGems
  2. Git
