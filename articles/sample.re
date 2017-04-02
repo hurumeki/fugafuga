@@ -27,7 +27,7 @@ You can install Re:VIEW with:
 
 \newpage
 
-//]
+//}
 
  1. RubyGems
  2. Git
