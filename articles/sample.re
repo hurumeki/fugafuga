@@ -35,10 +35,6 @@ b
 
 c
 
-@<raw>{|latex| \\clearpage }
-
-d
-
 @<raw>{|latex| \clearpage }
 
 
