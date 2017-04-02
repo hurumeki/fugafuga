@@ -21,6 +21,10 @@ You can install Re:VIEW with:
 
 //raw[|latex|\clearpage]
 
+1
+
+//raw[|latex|\\newpage]
+
 a
 
 @<raw>{|latex|
@@ -48,6 +52,38 @@ c
 d
 
 @<raw>{|latex|
+
+\clearpage
+
+}
+
+a
+
+@<embed>{|latex|
+
+\\newpage
+
+}
+
+b
+
+@<embed>{|latex|
+
+\newpage
+
+}
+
+c
+
+@<embed>{|latex|
+
+\\clearpage
+
+}
+
+d
+
+@<embed>{|latex|
 
 \clearpage
 
