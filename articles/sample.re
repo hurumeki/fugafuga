@@ -21,6 +21,19 @@ You can install Re:VIEW with:
 
 //raw[|latex|\clearpage]
 
+
+@<raw>{|latex|
+
+\\newpage
+
+\newpage
+
+\\clearpage
+
+\clearpage
+
+}
+
  1. RubyGems
  2. Git
  3. Subversion
