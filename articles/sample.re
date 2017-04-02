@@ -41,21 +41,6 @@ d
 
 @<raw>{|latex| \clearpage }
 
-a
-
-@<embed>{|latex| \\newpage }
-
-b
-
-@<embed>{|latex| \newpage }
-
-c
-
-@<embed>{|latex| \\clearpage }
-
-d
-
-@<embed>{|latex| \clearpage }
 
  1. RubyGems
  2. Git
