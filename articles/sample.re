@@ -19,6 +19,8 @@ You can generate documents as follows:
 
 You can install Re:VIEW with:
 
+//raw[|latex|\newpage]
+
  1. RubyGems
  2. Git
  3. Subversion
