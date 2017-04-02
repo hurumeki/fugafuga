@@ -19,7 +19,39 @@ You can generate documents as follows:
 
 You can install Re:VIEW with:
 
-@<raw>{|latex|\\newpage}
+//raw[|latex|\clearpage]
+
+a
+
+@<raw>{|latex|
+
+\\newpage
+
+}
+
+b
+
+@<raw>{|latex|
+
+\newpage
+
+}
+
+c
+
+@<raw>{|latex|
+
+\\clearpage
+
+}
+
+d
+
+@<raw>{|latex|
+
+\clearpage
+
+}
 
  1. RubyGems
  2. Git
