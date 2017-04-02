@@ -23,7 +23,7 @@ You can install Re:VIEW with:
 
 \clearpage
 
-\\newpage
+\newpage
 
 \newpage
 
