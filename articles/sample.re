@@ -19,11 +19,7 @@ You can generate documents as follows:
 
 You can install Re:VIEW with:
 
-//embed[latex]{
-
-\clearpage
-
-\newpage
+//texequation{
 
 \newpage
 
